@@ -1,5 +1,7 @@
 #Signpost Solver
 
+https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html
+
 #Input list of rows, each cell is tuple of compass point string and number (initially 0)
 #convert compass point to index notation of each cell with SE being [1,1].
 #[-1,-1],[-1,0],[-1,1]
